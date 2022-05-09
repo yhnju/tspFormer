@@ -4,7 +4,7 @@
 
 PyTorch implementation of my paper "Memory-Efficient Transformer-based Network Model for Traveling Salesman Problem"
 
-##Running Environment
+#Running Environment
 
 GPU:NVIDIA GeForce RTX 2080 Ti
 
@@ -22,12 +22,14 @@ pandas0.25
 
 scikit_learn0.21
 
-##Running Steps
+
+#Running Steps
 
 training: python trainTspformer.py
 
 testing: python testTspformer.py
 
-##Parameters Setting
+
+#Parameters Setting
 
 utils.options.get_options()
