@@ -1,6 +1,6 @@
 # tspFormer
 # TSPformer Description
-PyTorch implementation of "Memory-Efficient Transformer-based Network Model for Traveling Salesman Problem"
+PyTorch implementation of my paper "Memory-Efficient Transformer-based Network Model for Traveling Salesman Problem"
 
 ##Running Environment
 GPU:NVIDIA GeForce RTX 2080 Ti
