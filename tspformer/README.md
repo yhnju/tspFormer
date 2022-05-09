@@ -6,19 +6,12 @@ PyTorch implementation of my paper "Memory-Efficient Transformer-based Network M
 ##Running Environment
 
 GPU:NVIDIA GeForce RTX 2080 Ti
-
 pytorch1.10
-
 linux:ubuntu18.04
-
 python3.9
-
 matplotlib == 3.1
-
 numpy == 1.19
-
 pandas == 0.25
-
 scikit_learn == 0.21
 
 
@@ -26,7 +19,7 @@ scikit_learn == 0.21
 
 training: python trainTspformer.py
 
-testing:python testTspformer.py
+testing: python testTspformer.py
 
 ##Parameters Setting
 
