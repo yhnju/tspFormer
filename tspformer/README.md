@@ -13,13 +13,13 @@ linux:ubuntu18.04
 
 python3.9
 
-matplotlib == 3.1
+matplotlib3.1
 
-numpy == 1.19
+numpy1.19
 
-pandas == 0.25
+pandas0.25
 
-scikit_learn == 0.21
+scikit_learn0.21
 
 
 ##Running Steps
